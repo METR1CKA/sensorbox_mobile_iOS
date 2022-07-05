@@ -1,3 +1,15 @@
+# SensorBox
+
+FRELLDEVS
+
+## iOS
+
+* MOBILE
+
+## Descripción
+
+Creación del proyecto mobile de sensorbox, una aplicación en sistema iOS que consume los servicios en tiempo real de nuestra API
+
 # SENSOR-BOX-APP-IOS-OBJECTIVE-C
 El cuarto frío es el lugar determinado para la manipulación de productos frescos y productos no elaborados. Lugar de recepción de mercancías para que posteriormente sean ordenados en las distintas neveras. El cuarto frío consigue alargar el periodo de maduración de los productos.
 
