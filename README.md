@@ -16,3 +16,9 @@ El cuarto frío es el lugar determinado para la manipulación de productos fresc
 En física, la temperatura se refiere a una magnitud utilizada para medir la energía cinética de un sistema termodinámico, que se genera con los movimientos de las partículas que son parte del sistema. A mayor movimiento, aumenta la temperatura, mientras que a menor movimiento, la temperatura tiende a disminuir.
 
 La humedad del aire es un factor que sirve para evaluar la comodidad térmica del cuerpo vivo que se mueve en cierto ambiente. Sirve para evaluar la capacidad del aire para evaporar la humedad de la piel, debida a la transpiración fundamentalmente.
+
+# **METR1CKA**
+
+> [Pagina web](https://metr1cka.github.io "Visitanos en DevBlogs")
+
+> [Mas repositorios](https://github.com/METR1CKA "Mi perfil")
